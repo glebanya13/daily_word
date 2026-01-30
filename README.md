@@ -63,8 +63,6 @@ daily_word_app/
 
 ## 📸 Screenshots
 
-# Скриншоты приложения
-
 <div align="center">
   <table>
     <tr>
